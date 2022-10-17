@@ -283,15 +283,18 @@ footer li {
   footer {
     flex-wrap: wrap;
     justify-content: center;
+    padding-left: 0;
   }
   footer .reclam {
     flex-wrap: wrap;
     justify-content: center;
+    padding-left: 0;
   }
 
   .menu-bottom-social {
     flex-wrap: wrap;
     justify-content: center;
+    padding-left: 0;
   }
 }
 @media (max-width: 532px) {
